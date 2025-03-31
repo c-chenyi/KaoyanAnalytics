@@ -1,0 +1,10 @@
+jieba==0.42.1
+matplotlib==3.7.2
+mysql_connector_repackaged==0.3.1
+numpy==2.2.4
+pandas==2.2.3
+pyecharts==2.0.8
+scikit_learn==1.6.1
+statsmodels==0.14.4
+stylecloud==0.5.2
+tqdm==4.66.1
